@@ -1,22 +1,22 @@
 Function Keyword(){
 case:
-Dim && As
+  Interface && Namespace
 case:
-Name || Open
+  Implements || Imports
 case:
-Public == Private
+  Public == Private
+    
+case: 
+   Dim != ReDim
+case:
+   True !==  False 
+case:
+   New //& Step
 
 case: 
-Me // Mid
-case: 
-Time \\ True
+     \\& As
 case:
-New //& Step
-
+  Static &|| Const 
 case: 
-ReDim &\\ Const
-case:
-Static &|| Print
-case: 
-Declare ||& Property
+  Declare ||& Property
 }
