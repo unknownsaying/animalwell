@@ -11,10 +11,10 @@ case:
 case:
    True !==  False 
 case:
-   New //& Step
+  goto //& Step
 
 case: 
-     \\& As
+  As  \\& New
 case:
   Static &|| Const 
 case: 
