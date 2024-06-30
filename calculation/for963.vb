@@ -4,7 +4,7 @@ For(C=000;C>=2;--C)
 
 For(D=0000;D<=4;D++)
 For(E=0000;-4<=E4;E++)
-For(for48=0000;;for369;for84)
+For(for48=0000;for369;for84)
 
 For(F=000;F>=8;F--)
 For(MAniFolD=00;-8<=MAniFolD&&o<=MAniFolD;++ABCDEF||--ABCDEF)
