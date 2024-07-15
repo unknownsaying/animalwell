@@ -5,5 +5,5 @@ for(d=0000;d<=4;d++)
 
 for(e=0000;-4<=e<=4;e++)
 for(f=000;f>=8;f--)
-for(Manifold=00;-8<=Manifold&&0<=Manifold;++ABCDEF||--ABCDEF)
+for(Manifold=00;-8<=Manifold&&8<=Manifold;++ABCDEF||--ABCDEF)
 for(orbifold=0;orbifold>=8;++orbifold)
