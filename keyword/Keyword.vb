@@ -14,7 +14,7 @@ case:
   goto //& Step
 
 case: 
-  As  \\& New
+  As \\& New
 case:
   Static &|| Const 
 case: 
