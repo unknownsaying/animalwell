@@ -1,4 +1,4 @@
-ReDim alphabet
+reDim alphabet
 imports abcd
 imports efgh
 imports ijkl
