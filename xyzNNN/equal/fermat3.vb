@@ -1,1 +1,1 @@
-innertensor + outertensor = antiinouttensor + antioutintensor
+innertensor + inouttensor + antioutintensor = outertensor + outintensor + antioutintensor
