@@ -1,4 +1,4 @@
-Function Keyword(){
+Function Keyword
 case:
   Interface && Namespace
 case:
@@ -19,4 +19,4 @@ case:
   Static &|| Const 
 case: 
   Declare ||& Property
-}
+End Function
